@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cecaneto"
+    namespace = "com.example.cafeto"
     compileSdk = 33
 
     defaultConfig {
         applicationId = "br.freitascodes.cafeto"
-        minSdk = 33
+        minSdk = 23
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
