@@ -1,0 +1,1 @@
+Conexão Agricultura Familiar à Escola (CAFE) é uma solução projetada para fortalecer a conexão entre escolas e agricultura familiar, otimizando a aquisição de alimentos de acordo com as diretrizes do Programa Nacional de Alimentação Escolar (PNAE).
